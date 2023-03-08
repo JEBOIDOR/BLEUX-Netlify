@@ -413,6 +413,78 @@ footer{
 
 }
 
+@media screen and (max-width: 425px){
+
+    #contenido{
+        display: block;
+    }
+
+    #contenedor{
+        padding: 0px;
+    }
+
+    #izquierda h1{
+        padding-right: 15px;
+        text-align: end;
+        font-size: 40px;
+        height: 115px;
+    }
+
+    #izquierda p{
+        text-align: end;
+        font-size: 8px;
+    }
+
+    #derecha{
+        width: 50%;
+    }
+
+    #derecha div img{
+        height: 310px;
+    }
+
+    nav img{
+        width: 150px;
+    }
+
+    nav ul{
+        padding-left: 0px;
+
+    }
+
+    nav ul li a{
+        font-size: 10px;
+        padding-left: 5px;
+    }
+
+    nav button{
+        width: 100px;
+    }
+
+    #contenedores{
+        width: 195px;
+    }
+
+    #contenedores button{
+        margin-left: 5px;
+    }
+
+    #tercera-seccion h3{
+        height: 50px;
+        font-size: 40px;
+    }
+
+    #parrafo-tercera{
+        font-size: 13px;
+    }
+
+    .items{
+        font-size: 15px;
+        width: 45%;
+    }
+
+}
+
 
 
 
