@@ -470,12 +470,13 @@ footer{
     }
 
     #segunda-seccion h2{
-        width: 424px;
+        width: 380px;
     }
 
     #tercera-seccion h3{
         height: 50px;
         font-size: 40px;
+        padding: 6px;
     }
 
     #parrafo-tercera{
