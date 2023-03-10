@@ -344,6 +344,10 @@ footer{
 
 @media screen and (max-width: 992px){
 
+    body{
+        width: 100%;
+    }
+
 
     #derecha{
         width: 50%;
@@ -458,7 +462,7 @@ footer{
     }
 
     nav button{
-        width: 100px;
+        width: 95%;
     }
 
     #contenedores{
@@ -470,7 +474,7 @@ footer{
     }
 
     #segunda-seccion h2{
-        width: 380px;
+        width: 100%;
     }
 
     #tercera-seccion h3{
@@ -486,6 +490,14 @@ footer{
     .items{
         font-size: 15px;
         width: 45%;
+    }
+
+}
+
+@media screen and (max-width: 375px){
+
+    body{
+        width: 100%;
     }
 
 }
